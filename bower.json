@@ -1,0 +1,17 @@
+{
+  "name": "speedy-admin-api-client",
+  "main": "speedy-admin-api-client.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rafaelmotta/speedy-admin-api-client",
+  "authors": [
+    "Rafael Motta <rafaelmotta021@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
