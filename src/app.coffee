@@ -1,4 +1,4 @@
-angular.module("speedy.api", ['Restangular'])
+angular.module("speedy.api", [])
   .config (RestangularProvider) ->
     RestangularProvider.setBaseUrl("http://speedy.com.br")
 

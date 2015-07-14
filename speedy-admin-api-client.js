@@ -1,4 +1,4 @@
-angular.module("speedy.api", ['Restangular']).config(function(RestangularProvider) {
+angular.module("speedy.api", []).config(function(RestangularProvider) {
   return RestangularProvider.setBaseUrl("http://speedy.com.br");
 });
 
