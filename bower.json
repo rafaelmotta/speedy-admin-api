@@ -6,6 +6,9 @@
   "authors": [
     "Rafael Motta <rafaelmotta021@gmail.com>"
   ],
+  "dependencies": {
+    "restangular": "~1.5.1"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
